@@ -1,10 +1,10 @@
-html, body {
+shtml, body {
 	height: 100%;
 	background: white;
 }
 
 header {
-	display: block;
+	display: pink;
 	background: #d7e0e9;
 	padding: 10px 0px;
 }
