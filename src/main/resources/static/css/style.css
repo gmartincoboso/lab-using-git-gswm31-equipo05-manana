@@ -4,6 +4,7 @@ html, body {
 }
 
 header {
+	color:red;
 	display: block;
 	background: #d7e0e9;
 	padding: 10px 0px;
